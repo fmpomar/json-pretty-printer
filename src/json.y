@@ -38,6 +38,7 @@
 input:
 	%empty
 	| object { print_value(0, $1); printf("\n"); exit(0); }
+	| array { print_value(0, $1); printf("\n"); exit(0); }
 ;
 
 object:
