@@ -4,6 +4,7 @@
 %{
 #include "../yacc/json.tab.h"
 int yyerror(char *s);
+extern int yylineno;
 %}
 
 digits		[0-9]+
@@ -31,7 +32,7 @@ null		"null"
 
 [,:\{\}\[\]] { return *yytext; }
 
-[ \n\r\t] {}
+[ \n\r\t] { if ((*yytext) == '\n') yylineno++; }
 
 . { printf("Lexical error at: '%s'\n", yytext); exit(0); }
 
