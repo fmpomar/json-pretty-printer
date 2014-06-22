@@ -1,0 +1,410 @@
+[
+   {
+      "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=jingoists&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+      "status": "active",
+      "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=jingoists&pretty=true",
+      "value": 154861,
+      "word": "jingoists"
+   },
+   {
+      "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=our&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+      "status": "active",
+      "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=our&pretty=true",
+      "value": 6,
+      "word": "our"
+   },
+   [
+      {
+         "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=unbusiness&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+         "status": "active",
+         "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=unbusiness&pretty=true",
+         "value": 318545,
+         "word": "unbusiness"
+      },
+      {
+         "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=shall&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+         "status": "active",
+         "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=shall&pretty=true",
+         "value": 56,
+         "word": "shall"
+      },
+      {
+         "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=berringen&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+         "status": "active",
+         "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=berringen&pretty=true",
+         "value": 31885,
+         "word": "berringen"
+      },
+      {
+         "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=timekiller&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+         "status": "active",
+         "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=timekiller&pretty=true",
+         "value": 307159,
+         "word": "timekiller"
+      },
+      {
+         "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=said&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+         "status": "active",
+         "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=said&pretty=true",
+         "value": 195,
+         "word": "said"
+      },
+      {
+         "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=seiyara&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+         "status": "active",
+         "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=seiyara&pretty=true",
+         "value": 272029,
+         "word": "seiyara"
+      },
+      {
+         "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=signiorship&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+         "status": "active",
+         "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=signiorship&pretty=true",
+         "value": 278453,
+         "word": "signiorship"
+      },
+      [
+         {
+            "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=phytometer&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+            "status": "active",
+            "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=phytometer&pretty=true",
+            "value": 233182,
+            "word": "phytometer"
+         },
+         {
+            "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=bewhistle&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+            "status": "active",
+            "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=bewhistle&pretty=true",
+            "value": 32795,
+            "word": "bewhistle"
+         },
+         {
+            "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=clypeole&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+            "status": "active",
+            "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=clypeole&pretty=true",
+            "value": 60485,
+            "word": "clypeole"
+         },
+         {
+            "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=back&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+            "status": "active",
+            "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=back&pretty=true",
+            "value": 209,
+            "word": "back"
+         },
+         [
+            {
+               "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=as&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+               "status": "active",
+               "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=as&pretty=true",
+               "value": 127,
+               "word": "as"
+            },
+            {
+               "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=uldeme&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+               "status": "active",
+               "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=uldeme&pretty=true",
+               "value": 316882,
+               "word": "uldeme"
+            },
+            {
+               "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=semicrepe&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+               "status": "active",
+               "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=semicrepe&pretty=true",
+               "value": 272615,
+               "word": "semicrepe"
+            },
+            [
+               {
+                  "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=any&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                  "status": "active",
+                  "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=any&pretty=true",
+                  "value": 166,
+                  "word": "any"
+               },
+               {
+                  "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=gesticular&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                  "status": "active",
+                  "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=gesticular&pretty=true",
+                  "value": 119974,
+                  "word": "gesticular"
+               },
+               {
+                  "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=bechtler&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                  "status": "active",
+                  "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=bechtler&pretty=true",
+                  "value": 29149,
+                  "word": "bechtler"
+               },
+               {
+                  "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=don't&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                  "status": "active",
+                  "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=don't&pretty=true",
+                  "value": 95,
+                  "word": "don't"
+               },
+               {
+                  "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=isomorphisms&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                  "status": "active",
+                  "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=isomorphisms&pretty=true",
+                  "value": 151633,
+                  "word": "isomorphisms"
+               },
+               {
+                  "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=i&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                  "status": "active",
+                  "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=i&pretty=true",
+                  "value": 0,
+                  "word": "i"
+               },
+               [
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=bathtub&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=bathtub&pretty=true",
+                     "value": 28006,
+                     "word": "bathtub"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=trionychidae&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=trionychidae&pretty=true",
+                     "value": 312682,
+                     "word": "trionychidae"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=vetan&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=vetan&pretty=true",
+                     "value": 333911,
+                     "word": "vetan"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=herself&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=herself&pretty=true",
+                     "value": 21,
+                     "word": "herself"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=he's&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=he's&pretty=true",
+                     "value": 66,
+                     "word": "he's"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=tunnelmaker&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=tunnelmaker&pretty=true",
+                     "value": 314921,
+                     "word": "tunnelmaker"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=winterwards&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=winterwards&pretty=true",
+                     "value": 342563,
+                     "word": "winterwards"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=twitteration&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=twitteration&pretty=true",
+                     "value": 315914,
+                     "word": "twitteration"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=vesicae&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=vesicae&pretty=true",
+                     "value": 333776,
+                     "word": "vesicae"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=zayed&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=zayed&pretty=true",
+                     "value": 348241,
+                     "word": "zayed"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=vesicate&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=vesicate&pretty=true",
+                     "value": 333779,
+                     "word": "vesicate"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=spousage&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=spousage&pretty=true",
+                     "value": 287150,
+                     "word": "spousage"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=finumber&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=finumber&pretty=true",
+                     "value": 108079,
+                     "word": "finumber"
+                  },
+                  {
+                     "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=his&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                     "status": "active",
+                     "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=his&pretty=true",
+                     "value": 16,
+                     "word": "his"
+                  },
+                  [
+                     {
+                        "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=shoplifter&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                        "status": "active",
+                        "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=shoplifter&pretty=true",
+                        "value": 277096,
+                        "word": "shoplifter"
+                     },
+                     {
+                        "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=gemawa&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                        "status": "active",
+                        "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=gemawa&pretty=true",
+                        "value": 118843,
+                        "word": "gemawa"
+                     },
+                     {
+                        "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=shearsman&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                        "status": "active",
+                        "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=shearsman&pretty=true",
+                        "value": 275750,
+                        "word": "shearsman"
+                     },
+                     {
+                        "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=only&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                        "status": "active",
+                        "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=only&pretty=true",
+                        "value": 178,
+                        "word": "only"
+                     },
+                     {
+                        "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=cscihp&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                        "status": "active",
+                        "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=cscihp&pretty=true",
+                        "value": 71314,
+                        "word": "cscihp"
+                     },
+                     [
+                        {
+                           "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=yourself&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                           "status": "active",
+                           "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=yourself&pretty=true",
+                           "value": 12,
+                           "word": "yourself"
+                        },
+                        {
+                           "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=urinoscopy&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                           "status": "active",
+                           "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=urinoscopy&pretty=true",
+                           "value": 330035,
+                           "word": "urinoscopy"
+                        },
+                        {
+                           "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=elysium&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                           "status": "active",
+                           "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=elysium&pretty=true",
+                           "value": 94675,
+                           "word": "elysium"
+                        },
+                        {
+                           "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=kynurenic&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                           "status": "active",
+                           "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=kynurenic&pretty=true",
+                           "value": 166480,
+                           "word": "kynurenic"
+                        },
+                        [
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=costeaning&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=costeaning&pretty=true",
+                              "value": 67810,
+                              "word": "costeaning"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=sherewyana&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=sherewyana&pretty=true",
+                              "value": 276206,
+                              "word": "sherewyana"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=too&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=too&pretty=true",
+                              "value": 183,
+                              "word": "too"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=here&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=here&pretty=true",
+                              "value": 159,
+                              "word": "here"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=moyumi&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=moyumi&pretty=true",
+                              "value": 199378,
+                              "word": "moyumi"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=would&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=would&pretty=true",
+                              "value": 55,
+                              "word": "would"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=assate&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=assate&pretty=true",
+                              "value": 19673,
+                              "word": "assate"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=undiscarded&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=undiscarded&pretty=true",
+                              "value": 320765,
+                              "word": "undiscarded"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=we're&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=we're&pretty=true",
+                              "value": 69,
+                              "word": "we're"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=nethersole&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=nethersole&pretty=true",
+                              "value": 206044,
+                              "word": "nethersole"
+                           },
+                           {
+                              "definition": "http://en.wiktionary.org/w/api.php?action=query&titles=sating&prop=revisions&rvprop=content&rvgeneratexml=&format=json",
+                              "status": "active",
+                              "translation": "http://glosbe.com/gapi/translate?from=eng&dest=pol&format=json&phrase=sating&pretty=true",
+                              "value": 267470,
+                              "word": "sating"
+                           }
+                        ]
+                     ]
+                  ]
+               ]
+            ]
+         ]
+      ]
+   ]
+]
