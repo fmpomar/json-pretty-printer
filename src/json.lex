@@ -2,7 +2,7 @@
 /* calc.lex */
 
 %{
-#include "json.tab.h"
+#include "../yacc/json.tab.h"
 int yyerror(char *s);
 %}
 

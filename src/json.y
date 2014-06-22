@@ -3,7 +3,7 @@
 %{
   #include <math.h>
   #include <stdio.h>
-  #include "structure.h"
+  #include "../src/structure.h"
   void print_tabs(int depth);
   void print_value(int depth, Value* value);
   int yylex (void);
@@ -37,7 +37,7 @@
 %% /* The grammar follows.  */
 input:
 	%empty
-	| object { print_value(0, $1); }
+	| object { print_value(0, $1); printf("\n"); exit(0); }
 ;
 
 object:
