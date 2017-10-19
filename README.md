@@ -1,15 +1,20 @@
-# README #
+# json-pretty-printer
 
-TP de Automatas, Teoria de Lenguajes y Compiladores.
-2do Cuatrimestre, 2014.
+Automata, Languages & Compilers coursework for ITBA
 
-Grupo LTA:
+## Building
+ 
+#### Dependencies
+- flex
+- bison
+- gcc
+- make
 
-- Pablo Diaz Uboe
-- Ignacio Rivera
-- Iojanan Chervonagura
-- Federico Pomar
+#### Instructions
 
-Para compilar ejecutar el makefile.
-Para ejecutar el programa, ejecutar el archivo json del directorio bin y pasarle el archivo json a compilar por entrada estándar.
-Ejemplo de ejecución (parado en el directorio raiz del TP): ./bin/json < json/example1.json
+Just run 'make'
+
+## Running
+
+./bin/json < some_ugly.json > some_pretty.json
+
